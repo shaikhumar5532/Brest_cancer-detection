@@ -39,6 +39,13 @@ data/
 *.tar.gz
 
 # -------------------------
+# YOLO Model Outputs
+# -------------------------
+runs/              # YOLO detection/training output folder
+results/           # if used for saving images
+predictions/       # optional
+
+# -------------------------
 # Cache files
 # -------------------------
 *.cache
