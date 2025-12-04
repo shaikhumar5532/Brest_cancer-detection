@@ -1,0 +1,66 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.tmp
+*.log
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+*.code-workspace
+
+# -------------------------
+# OS Files
+# -------------------------
+# Windows
+Thumbs.db
+Desktop.ini
+# Mac
+.DS_Store
+
+# -------------------------
+# Dataset & Large Files
+# -------------------------
+Dataset/
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# -------------------------
+# Cache files
+# -------------------------
+*.cache
+*.pickle
+*.onnx
+*.engine
+*.bin
+
+# -------------------------
+# Build / Packaging
+# -------------------------
+build/
+dist/
+*.egg-info/
+
+# -------------------------
+# Jupyter Notebook
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Environment files
+# -------------------------
+*.env
+.env.*
