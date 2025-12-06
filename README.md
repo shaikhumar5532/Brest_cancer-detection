@@ -10,7 +10,7 @@
 This project is a **desktop-based breast cancer detection system** built using **YOLOv8** and a **Matrix-style Tkinter GUI**.  
 It allows users to:
 
-- Upload mammogram images  
+- upload  mammogram images  .
 - Automatically detect **tumor / normal regions**  
 - View annotated YOLO results  
 - Check confidence percentages  
@@ -22,6 +22,9 @@ It allows users to:
 ---
 
 ## Screenshots
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6cdcd52 (new update)
 (Add screenshots after uploading them)
 
