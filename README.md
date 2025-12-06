@@ -19,12 +19,6 @@ It allows users to:
 
 *This is for educational & research purposes only — NOT a medical diagnostic tool.*
 
----
 
-## Screenshots
-<<<<<<< HEAD
 
-=======
->>>>>>> 6cdcd52 (new update)
-(Add screenshots after uploading them)
 
